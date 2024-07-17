@@ -7,7 +7,7 @@
 body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
-  background-colour: #026A01;
+  background-colour: #0B7515;
 }
 
 .container {
@@ -17,8 +17,8 @@ body {
 }
 
 header {
-  background-colour: green;
-  colour: #fff;
+  background-colour: #ECA131;
+  colour: #56C060;
   padding: 10px 0;
   text-align: centre;
 }
@@ -30,7 +30,7 @@ header h1 {
 section {
   margin-bottom: 20px;
   padding: 20px 0;
-  background-colour: blue;
+  background-colour: #AF1429;
 }
 
 section h2 {
@@ -59,8 +59,8 @@ form select {
 
 form button {
   display: inline-block;
-  background-colour: blue;
-  colour: green;
+  background-colour: #AF1429;
+  colour: #C122BC;
   border: none;
   padding: 10px 20px;
   cursor: pointer;
@@ -70,7 +70,7 @@ form button {
 }
 
 form button:hover {
-  background-colour: yellow;
+  background-colour: #EDE72A;
 }
 
 .resources ul {
@@ -84,14 +84,14 @@ form button:hover {
 }
 
 .resources ul li a {
-  colour: #333;
+  colour: ##4F88D2;
   text-decoration: none;
   font-size: 1.1rem;
 }
 
 footer {
-  background-colour: #333;
-  colour: #fff;
+  background-colour: #4F88D2;
+  colour: #4F88D2;
   text-align: centre;
   padding: 10px 0;
 }
@@ -110,7 +110,7 @@ footer nav ul li {
 }
 
 footer nav ul li a {
-  colour: #fff;
+  colour: #5722C1;
   text-decoration: none;
   font-size: 0.9rem;
 }
